@@ -14,3 +14,7 @@ Study 1. 숫자, 문자열 자료형
 study 2. list 자료형
 study 3. tuple 자료형
 study 4. dictionary 자료형
+study 5. set 자료형
+study 6. Bool 자료형
+study 7. variable 변수에 관하여(메모리 할당 관련 내용도 있음)
+study 8. if 문에 관하여
